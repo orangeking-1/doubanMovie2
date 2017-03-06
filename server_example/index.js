@@ -22,7 +22,9 @@ app.use((req,res,next)=>{
 app.get('/getMovieListData',(req,res,next)=>{
     // console.log('请求了服务器的getMovieListData方法吧')
 
-    const url=`https://api.douban.com/v2/movie/coming_soon?start=0&count=6`
+    const message = JSON.parse(req.query.message)
+
+    const url=`https://api.douban.com/v2/movie/${message.movieType}?start=${message.start}&count=${message.count}`
 
     request(url,function (error, response, body) {
         if (!error && response.statusCode == 200) {
@@ -37,6 +39,34 @@ app.get('/getMovieListData',(req,res,next)=>{
 
 
 })
+
+
+// 获取电影详细列表数据方法
+app.get('/getMovieDetailData',(req,res,next)=>{
+    // console.log('请求了服务器的getMovieListData方法吧')
+    
+    //接受传过来的id值
+    var id = req.query.message
+
+    const url=`https://api.douban.com/v2/movie/subject/${id}`
+
+    request(url,function (error, response, body) {
+        if (!error && response.statusCode == 200) {
+            res.send(JSON.parse(response.body));
+        }
+        else{
+            res.send({errMessage:error})
+        }
+    })
+
+
+
+
+})
+
+
+
+
 
 const server = app.listen(port, function () {
     const host = server.address().address;
