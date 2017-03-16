@@ -4,6 +4,8 @@
     <list default="true" id="66213995-fd44-483f-a253-91dc5fce7cd1" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react_example1222" afterPath="$PROJECT_DIR$/react_example1222" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react_example1222/src/js/Routers.js" afterPath="$PROJECT_DIR$/react_example1222/src/js/Routers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react_example1222/webpack.publish.config.js" afterPath="$PROJECT_DIR$/react_example1222/webpack.publish.config.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server_example/index.js" afterPath="$PROJECT_DIR$/server_example/index.js" />
     </list>
     <ignored path="react‘s Demo.iws" />
@@ -25,117 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server_example/index.js">
+      <file leaf-file-name="Routers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-280">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listService.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#438#446#0" expanded="false" />
-                <element signature="e#37139#37147#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieDetailContainer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieDetailContainer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding>
-                <element signature="e#56#94#0" expanded="true" />
-                <element signature="e#574#630#0" expanded="true" />
-                <element signature="e#955#1057#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovieListContainer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#56#94#0" expanded="true" />
-                <element signature="e#402#807#0" expanded="true" />
-                <element signature="e#557#796#0" expanded="true" />
-                <element signature="e#839#885#0" expanded="true" />
-                <element signature="e#1942#2077#0" expanded="true" />
-                <element signature="e#2004#2063#0" expanded="true" />
-                <element signature="e#2575#2774#0" expanded="true" />
-                <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-                <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListContainer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+            <state relative-caret-position="395">
+              <caret line="97" column="72" selection-start-line="97" selection-start-column="72" selection-end-line="97" selection-end-column="72" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#54#92#0" expanded="true" />
-                <element signature="e#294#341#0" expanded="true" />
-                <element signature="e#407#440#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/list.css">
+      <file leaf-file-name="webpack.publish.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_example1222/webpack.publish.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Routers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movieDetail.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/movieDetail.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_example1222/src/js/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -146,8 +55,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -158,17 +67,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/react_example1222/src/js/config.js" />
-        <option value="$PROJECT_DIR$/react_example1222/src/styles/movieList.css" />
         <option value="$PROJECT_DIR$/react_example1222/src/styles/movieDetail.css" />
         <option value="$PROJECT_DIR$/react_example1222/src/components/Loading.js" />
         <option value="$PROJECT_DIR$/react_example1222/src/components/Loading.css" />
-        <option value="$PROJECT_DIR$/react_example1222/src/services/listService.js" />
-        <option value="$PROJECT_DIR$/server_example/index.js" />
-        <option value="$PROJECT_DIR$/react_example1222/src/js/Routers.js" />
         <option value="$PROJECT_DIR$/react_example1222/src/containers/MovieDetailContainer.js" />
         <option value="$PROJECT_DIR$/react_example1222/src/styles/list.css" />
-        <option value="$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js" />
         <option value="$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js" />
+        <option value="$PROJECT_DIR$/react_example1222/src/containers/MovieSearchContainer.js" />
+        <option value="$PROJECT_DIR$/react_example1222/src/styles/movieList.css" />
+        <option value="$PROJECT_DIR$/react_example1222/src/services/listService.js" />
+        <option value="$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js" />
+        <option value="$PROJECT_DIR$/server_example/index.js" />
+        <option value="$PROJECT_DIR$/react_example1222/webpack.publish.config.js" />
+        <option value="$PROJECT_DIR$/react_example1222/src/js/Routers.js" />
       </list>
     </option>
   </component>
@@ -215,6 +126,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,6 +199,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react‘s Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react‘s Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_example1222" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react‘s Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react‘s Demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react_example1222" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -337,7 +293,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,18 +382,20 @@
       <workItem from="1488415273305" duration="4780000" />
       <workItem from="1488442031301" duration="76000" />
       <workItem from="1488522756785" duration="9167000" />
-      <workItem from="1488761375437" duration="17416000" />
+      <workItem from="1488761375437" duration="18009000" />
+      <workItem from="1488848688484" duration="7640000" />
+      <workItem from="1489629775604" duration="15270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47635000" />
+    <option name="totallyTimeSpent" value="71138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1654334" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14429176" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -447,6 +404,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -456,7 +414,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -475,6 +432,180 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#56#94#0" expanded="true" />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
+            <element signature="e#294#363#0" expanded="true" />
+            <element signature="e#405#451#0" expanded="true" />
+            <element signature="e#511#544#0" expanded="true" />
+            <element signature="e#603#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/movieDetail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_example/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
+            <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
+            <element signature="e#37139#37147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieDetailContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#56#94#0" expanded="true" />
+            <element signature="e#574#630#0" expanded="true" />
+            <element signature="e#955#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#56#94#0" expanded="true" />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
+            <element signature="e#294#363#0" expanded="true" />
+            <element signature="e#405#451#0" expanded="true" />
+            <element signature="e#511#544#0" expanded="true" />
+            <element signature="e#603#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/movieDetail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server_example/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -489,7 +620,9 @@
           <caret line="671" column="27" selection-start-line="671" selection-start-column="27" selection-end-line="671" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
             <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
             <element signature="e#37139#37147#0" expanded="false" />
           </folding>
         </state>
@@ -514,14 +647,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -530,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +689,9 @@
           <caret line="639" column="25" selection-start-line="639" selection-start-column="25" selection-end-line="639" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
             <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
             <element signature="e#37139#37147#0" expanded="false" />
           </folding>
         </state>
@@ -569,61 +704,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server_example/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="639" column="25" selection-start-line="639" selection-start-column="25" selection-end-line="639" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#438#446#0" expanded="false" />
-            <element signature="e#37139#37147#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -650,7 +739,9 @@
           <caret line="639" column="25" selection-start-line="639" selection-start-column="25" selection-end-line="639" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
             <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
             <element signature="e#37139#37147#0" expanded="false" />
           </folding>
         </state>
@@ -663,14 +754,65 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server_example/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="639" column="25" selection-start-line="639" selection-start-column="25" selection-end-line="639" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
+            <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
+            <element signature="e#37139#37147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#56#94#0" expanded="true" />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -697,7 +839,9 @@
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#163#36840#0" expanded="false" />
             <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
             <element signature="e#37139#37147#0" expanded="false" />
           </folding>
         </state>
@@ -710,14 +854,15 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -734,14 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/movieList.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -758,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,53 +902,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#438#446#0" expanded="false" />
-            <element signature="e#37139#37147#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server_example/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/list.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieDetailContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="378">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding>
             <element signature="e#56#94#0" expanded="true" />
@@ -822,34 +917,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js">
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
+        <state relative-caret-position="2079">
+          <caret line="77" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="207" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#54#92#0" expanded="true" />
-            <element signature="e#294#341#0" expanded="true" />
-            <element signature="e#407#440#0" expanded="true" />
+            <element signature="e#56#94#0" expanded="true" />
+            <element signature="e#402#863#0" expanded="true" />
+            <element signature="e#612#851#0" expanded="true" />
+            <element signature="e#895#941#0" expanded="true" />
+            <element signature="e#1958#2011#0" expanded="true" />
+            <element signature="e#2389#2653#0" expanded="true" />
+            <element signature="e#2485#2639#0" expanded="true" />
+            <element signature="e#3488#3710#0" expanded="true" />
+            <marker date="1489636712546" expanded="true" signature="4373:4609" placeholder="..." />
+            <marker date="1489636712546" expanded="true" signature="4913:5023" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieListContainer.js">
+    <entry file="file://$PROJECT_DIR$/server_example/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="64" column="58" selection-start-line="64" selection-start-column="58" selection-end-line="64" selection-end-column="58" />
+        <state relative-caret-position="185">
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/services/listService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="658" column="12" selection-start-line="658" selection-start-column="12" selection-end-line="658" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#56#94#0" expanded="true" />
-            <element signature="e#402#807#0" expanded="true" />
-            <element signature="e#557#796#0" expanded="true" />
-            <element signature="e#839#885#0" expanded="true" />
-            <element signature="e#1942#2077#0" expanded="true" />
-            <element signature="e#2004#2063#0" expanded="true" />
-            <element signature="e#2575#2774#0" expanded="true" />
-            <marker date="1488787481367" expanded="true" signature="3436:3519" placeholder="..." />
-            <marker date="1488787481367" expanded="true" signature="3823:3933" placeholder="..." />
+            <element signature="e#163#36840#0" expanded="false" />
+            <element signature="e#438#446#0" expanded="false" />
+            <element signature="e#36880#42769#0" expanded="false" />
+            <element signature="e#37139#37147#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/movieList.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/ListContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
+            <element signature="e#294#363#0" expanded="true" />
+            <element signature="e#405#451#0" expanded="true" />
+            <element signature="e#511#544#0" expanded="true" />
+            <element signature="e#603#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/styles/list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/containers/MovieSearchContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#58#96#0" expanded="true" />
+            <element signature="e#433#897#0" expanded="true" />
+            <element signature="e#643#885#0" expanded="true" />
+            <element signature="e#940#986#0" expanded="true" />
+            <element signature="e#2040#2093#0" expanded="true" />
+            <element signature="e#2447#2711#0" expanded="true" />
+            <element signature="e#2543#2697#0" expanded="true" />
+            <element signature="e#3535#3757#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/webpack.publish.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_example1222/src/js/Routers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="97" column="72" selection-start-line="97" selection-start-column="72" selection-end-line="97" selection-end-column="72" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#54#92#0" expanded="true" />
           </folding>
         </state>
       </provider>

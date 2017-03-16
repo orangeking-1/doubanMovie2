@@ -40,6 +40,29 @@ app.get('/getMovieListData',(req,res,next)=>{
 
 })
 
+// getMovieListByKey  搜索电影
+app.get('/getMovieListByKey',(req,res,next)=>{
+    // console.log('请求了服务器的getMovieListByKey方法吧')
+
+    const message = JSON.parse(req.query.message)
+    const key = encodeURI(message.key)
+    const url=`https://api.douban.com/v2/movie/search?q=${key}&start=${message.start}&count=${message.count}`
+
+    request(url,function (error, response, body) {
+        if (!error && response.statusCode == 200) {
+            res.send(JSON.parse(response.body));
+        }
+        else{
+            res.send({errMessage:error})
+        }
+    })
+
+
+
+
+})
+
+
 
 // 获取电影详细列表数据方法
 app.get('/getMovieDetailData',(req,res,next)=>{
